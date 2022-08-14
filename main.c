@@ -1,4 +1,4 @@
-#include "mouth8.c"
+#include "year22/mouth8.c"
 
 int main() {
     day14Run();
